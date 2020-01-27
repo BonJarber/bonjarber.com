@@ -44,7 +44,7 @@ career-profile:
       - Security engineer with 6+ years of experience pentesting and securing both web and mobile applications.
       - Deep understanding of web security vulnerabilities and how to find, fix, and prevent them.
       - Strong communicator able to explain complex technical details to any technical level audience, in small or large groups.
-      - Experienced at managing a large bug bounty program and relationships with researcher community.
+      - Experienced at managing a large bug bounty program and building strong relationships within the researcher community.
 education:
     - degree: B.S. - Computing Security
       university: Rochester Institute of Technology
@@ -62,7 +62,7 @@ experiences:
       time: 2017 - 2019
       company: Facebook, Seattle
       details: |
-        - Found, fixed, and prevented security and privacy flaws in the code bases of Facebook and its family of products
+        - Identified, fixed, and prevented security and privacy flaws in the code bases of Facebook and its family of products
         - Seattle bug bounty lead, one of the core managers of program health, roadmap, triage, payouts, tooling, and live events
         - Performed security reviews, improved static analysis tooling, and participated in various oncall rotations
         - Collaborated cross-functionally with development teams, legal, comms, and other security teams
@@ -74,7 +74,7 @@ experiences:
       company: NCC Group, Seattle
       details: |
         - Engaged in penetration tests and code reviews for Fortune 100 tech companies
-        - Identified vulnerabilities in web apps, mobile apps, networks, network devices, architecture designs, and source code
+        - Discovered vulnerabilities in web apps, mobile apps, networks, network devices, architecture designs, and source code
         - Tech led over 75% of engagements and directly managed consultants
         - Performed self-directed research outputting an internal tool, Blackhat Arsenal presentation, and ToorCon talk
     - role: Security Engineer Intern - Security Assurance Group
