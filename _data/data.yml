@@ -58,6 +58,10 @@ education:
       details: |
 
 experiences:
+    - role: Senior Security Engineer - Application Security
+      time: 2020 - Present
+      company: Cruise, Seattle
+        - Application security stuff with a focus on building automated vulnerability hunting
     - role: Security Engineer - Product Security
       time: 2017 - 2019
       company: Facebook, Seattle
